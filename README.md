@@ -26,8 +26,7 @@ It provides clear insights into total business, customer behavior, and sales tre
 ---
 
 # 🖼 Dashboard Preview
-<img width="1292" height="519" alt="store analysis report" src="https://github.com/user-attachments/assets/b271199e-22f1-4d9c-aefb-443d2e669ae8" />
-
+<img width="1294" height="554" alt="Image" src="https://github.com/user-attachments/assets/8fff9237-9b69-45eb-85cc-5f3182f38391" />
 ---
 
 # 🔗 Project Links
